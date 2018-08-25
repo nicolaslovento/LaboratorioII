@@ -1,0 +1,5 @@
+C:\Users\nico\Desktop\GIT1\LaboratorioII\Ejercicio06\bin\Debug\Ejercicio06.exe.config
+C:\Users\nico\Desktop\GIT1\LaboratorioII\Ejercicio06\bin\Debug\Ejercicio06.exe
+C:\Users\nico\Desktop\GIT1\LaboratorioII\Ejercicio06\bin\Debug\Ejercicio06.pdb
+C:\Users\nico\Desktop\GIT1\LaboratorioII\Ejercicio06\obj\Debug\Ejercicio06.exe
+C:\Users\nico\Desktop\GIT1\LaboratorioII\Ejercicio06\obj\Debug\Ejercicio06.pdb
