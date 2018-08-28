@@ -7,12 +7,16 @@ namespace EjercicioSello
     class Sello
     {
 
-    public static string mensaje="HolaAsdsadas";
+    public static string mensaje="a";
     
 
     public static void imprimir()
     {
-      armarFormato(mensaje);
+      if(TryParse(mensaje,out mensaje))
+      {
+
+        armarFormato(mensaje);
+      }
     }
 
     public static void borrar()
@@ -46,7 +50,17 @@ namespace EjercicioSello
 
     }
 
+    private static bool TryParse(string msj, out string msjSalida)/*parametro de salida*/
+    {
+      if(msj.Length>0)
+      {
+        msjSalida = msj;
+        return true;
+      }
+      msjSalida = "";
+      return false;
 
+    }
 
 
 

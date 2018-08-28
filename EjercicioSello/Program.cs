@@ -6,9 +6,9 @@ namespace EjercicioSello
     {
         static void Main(string[] args)
         {
+
+            Sello.imprimir();
             
-            Sello.imprimirEnColor();
-            Sello.imprimirSinColor();
       
             Console.Read();
         }
