@@ -6,10 +6,11 @@ namespace EjercicioSello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-      Sello.imprimir();
+            
+            Sello.imprimirEnColor();
+            Sello.imprimirSinColor();
       
-      Console.Read();
+            Console.Read();
         }
     }
 }

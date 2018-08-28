@@ -7,7 +7,7 @@ namespace EjercicioSello
     class Sello
     {
 
-    public static string mensaje="Hola";
+    public static string mensaje="HolaAsdsadas";
     
 
     public static void imprimir()
@@ -20,10 +20,16 @@ namespace EjercicioSello
       mensaje = "";
     }
 
+    public static void imprimirSinColor()
+    {
+      armarFormato(mensaje);
+    }
+
     public static void imprimirEnColor()
     {
       Console.BackgroundColor = ConsoleColor.Green;
-      Console.Write(mensaje);
+      armarFormato(mensaje);
+      Console.BackgroundColor = ConsoleColor.Black;
     }
 
     private static void armarFormato(string msj)
