@@ -1,0 +1,6 @@
+C:\Users\nico\Desktop\GIT\LaboratorioII\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+C:\Users\nico\Desktop\GIT\LaboratorioII\Ejercicio09\obj\Debug\Ejercicio09.csprojResolveAssemblyReference.cache
+C:\Users\nico\Desktop\GIT\LaboratorioII\Ejercicio09\bin\Debug\Ejercicio09.exe
+C:\Users\nico\Desktop\GIT\LaboratorioII\Ejercicio09\bin\Debug\Ejercicio09.pdb
+C:\Users\nico\Desktop\GIT\LaboratorioII\Ejercicio09\obj\Debug\Ejercicio09.exe
+C:\Users\nico\Desktop\GIT\LaboratorioII\Ejercicio09\obj\Debug\Ejercicio09.pdb
