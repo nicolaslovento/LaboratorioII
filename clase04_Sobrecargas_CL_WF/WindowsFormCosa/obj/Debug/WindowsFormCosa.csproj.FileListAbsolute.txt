@@ -1,0 +1,11 @@
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\bin\Debug\WindowsFormCosa.exe.config
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\bin\Debug\WindowsFormCosa.exe
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\bin\Debug\WindowsFormCosa.pdb
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\obj\Debug\WindowsFormCosa.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\obj\Debug\WindowsFormCosa.Form1.resources
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\obj\Debug\WindowsFormCosa.Properties.Resources.resources
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\obj\Debug\WindowsFormCosa.csproj.GenerateResource.Cache
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\obj\Debug\WindowsFormCosa.exe
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\obj\Debug\WindowsFormCosa.pdb
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\bin\Debug\Entidades.dll
+D:\VisualStudio\ConsoleApplication6\WindowsFormCosa\bin\Debug\Entidades.pdb

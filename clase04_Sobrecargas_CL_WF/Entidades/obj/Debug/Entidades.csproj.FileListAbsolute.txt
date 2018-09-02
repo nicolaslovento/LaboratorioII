@@ -1,0 +1,4 @@
+D:\VisualStudio\ConsoleApplication6\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\ConsoleApplication6\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\ConsoleApplication6\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\ConsoleApplication6\Entidades\obj\Debug\Entidades.pdb
