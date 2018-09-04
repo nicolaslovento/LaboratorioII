@@ -1,0 +1,14 @@
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\nico\Desktop\Git\ProgramacionII\repaso_Clase05\repaso_Clase05\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\nico\Desktop\repaso_Clase05\TestEstante\obj\Debug\TestEstante.pdb
