@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nico\\Desktop\\Git\\LaboratorioII\\EjercicioSello\\EjercicioSello.csproj",
+      "projectUniqueName": "C:\\Users\\nico\\Desktop\\Git2\\LaboratorioII\\EjercicioSello\\EjercicioSello.csproj",
       "projectName": "EjercicioSello",
-      "projectPath": "C:\\Users\\nico\\Desktop\\Git\\LaboratorioII\\EjercicioSello\\EjercicioSello.csproj",
+      "projectPath": "C:\\Users\\nico\\Desktop\\Git2\\LaboratorioII\\EjercicioSello\\EjercicioSello.csproj",
       "packagesPath": "C:\\Users\\nico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nico\\Desktop\\Git\\LaboratorioII\\EjercicioSello\\obj\\",
+      "outputPath": "C:\\Users\\nico\\Desktop\\Git2\\LaboratorioII\\EjercicioSello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
