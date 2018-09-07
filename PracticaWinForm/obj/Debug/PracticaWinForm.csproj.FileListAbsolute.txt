@@ -1,0 +1,11 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\bin\Debug\PracticaWinForm.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\bin\Debug\PracticaWinForm.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\bin\Debug\PracticaWinForm.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.Form1.resources
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.Form2.resources
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.Properties.Resources.resources
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaWinForm\obj\Debug\PracticaWinForm.pdb
