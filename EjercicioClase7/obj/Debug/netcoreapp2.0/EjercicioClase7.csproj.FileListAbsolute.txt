@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\bin\Debug\netcoreapp2.0\EjercicioClase7.deps.json
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\bin\Debug\netcoreapp2.0\EjercicioClase7.runtimeconfig.json
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\bin\Debug\netcoreapp2.0\EjercicioClase7.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\bin\Debug\netcoreapp2.0\EjercicioClase7.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\bin\Debug\netcoreapp2.0\EjercicioClase7.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\obj\Debug\netcoreapp2.0\EjercicioClase7.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\obj\Debug\netcoreapp2.0\EjercicioClase7.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\obj\Debug\netcoreapp2.0\EjercicioClase7.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\obj\Debug\netcoreapp2.0\EjercicioClase7.AssemblyInfo.cs
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\obj\Debug\netcoreapp2.0\EjercicioClase7.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\EjercicioClase7\obj\Debug\netcoreapp2.0\EjercicioClase7.pdb
