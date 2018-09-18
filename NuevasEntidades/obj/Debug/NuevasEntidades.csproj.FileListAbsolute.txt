@@ -1,0 +1,6 @@
+C:\Users\nico\Desktop\git\LaboratorioII\NuevasEntidades\bin\Debug\NuevasEntidades.dll
+C:\Users\nico\Desktop\git\LaboratorioII\NuevasEntidades\bin\Debug\NuevasEntidades.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\NuevasEntidades\obj\Debug\NuevasEntidades.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\NuevasEntidades\obj\Debug\NuevasEntidades.dll
+C:\Users\nico\Desktop\git\LaboratorioII\NuevasEntidades\obj\Debug\NuevasEntidades.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\NuevasEntidades\obj\Debug\NuevasEntidades.csprojAssemblyReference.cache

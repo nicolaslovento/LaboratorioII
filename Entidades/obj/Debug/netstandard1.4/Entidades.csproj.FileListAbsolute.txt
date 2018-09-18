@@ -1,0 +1,8 @@
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\nico\Desktop\git\LaboratorioII\Entidades\obj\Debug\netstandard1.4\Entidades.pdb

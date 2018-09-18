@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\obj\Debug\Ejercicio19.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio19\obj\Debug\Ejercicio19.pdb

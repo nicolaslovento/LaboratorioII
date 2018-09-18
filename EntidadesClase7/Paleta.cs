@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EntidadesClase7
 {
-  class Paleta
+  public class Paleta
   {
     #region Atributos
 
@@ -85,6 +85,9 @@ namespace EntidadesClase7
       return false;
     }
 
+    
+
+
     public static bool operator !=(Paleta paleta, tempera tempera)
     {
 
@@ -94,18 +97,50 @@ namespace EntidadesClase7
 
     public static Paleta operator +(Paleta paleta, tempera temp){
 
-      if(paleta==temp)
+      int indice = -1;
+      if (paleta == temp)
       {
-        paleta._colores.SetValue(paleta._colores.GetValue(paleta.ObtenerIndice(temp))+temp,paleta.ObtenerIndice(temp));
+        indice = paleta.ObtenerIndice(temp);
+        paleta._colores[indice] += temp;
         //Sumo dos objetos de tipo tempera ya uardados en el array paleta
-      }else
+      }
+      else
       {
-        paleta._colores.SetValue(temp, paleta.ObtenerIndice());//guardo temp en array de paleta
+        indice = paleta.ObtenerIndice();//guardo temp en array de paleta
+        if(indice>-1)
+        {
+          paleta._colores[indice] = temp;
+        }
       }
 
       return paleta;
 
       }
+
+    public static Paleta operator -(Paleta paleta, tempera temp)
+    {
+      int indice = -1;
+      int cantidad;
+      if (paleta == temp)
+      {
+        indice = paleta.ObtenerIndice(temp);
+        cantidad=(sbyte)paleta._colores.GetValue(indice) - (sbyte)temp;//resto cantidades
+        
+        if (cantidad <= 0)
+        {
+          paleta._colores[indice]= null;
+        }
+        else
+        {//si cantidad>0 guardo en la paleta con la nueva cantidad
+          paleta._colores.SetValue((sbyte)paleta._colores.GetValue(indice) - (sbyte)temp, indice);
+        }
+      }
+
+      
+      
+       return paleta;
+
+    }
 
     /// <summary>
     /// Devuelve primer lugar libre de array Paleta.

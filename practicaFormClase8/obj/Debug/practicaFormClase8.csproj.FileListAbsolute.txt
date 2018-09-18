@@ -1,0 +1,14 @@
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\bin\Debug\practicaFormClase8.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\bin\Debug\practicaFormClase8.exe
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\bin\Debug\practicaFormClase8.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.Form1.resources
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.Properties.Resources.resources
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.csproj.CopyComplete
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.exe
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\obj\Debug\practicaFormClase8.Form2.resources
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\bin\Debug\NuevasEntidades.dll
+C:\Users\nico\Desktop\git\LaboratorioII\practicaFormClase8\bin\Debug\NuevasEntidades.pdb

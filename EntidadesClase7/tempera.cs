@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EntidadesClase7
 {
-    class tempera
+    public class tempera
     {
     #region Atributos
     private sbyte _cantidad;
@@ -77,6 +77,9 @@ namespace EntidadesClase7
     }
 
     
+
+    
+
     #endregion
 
 

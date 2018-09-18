@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\testWF_Clase08\obj\Debug\testWF_Clase08.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\testWF_Clase08\obj\Debug\testWF_Clase08.exe.config
+C:\Users\alumno\Desktop\git\LaboratorioII\testWF_Clase08\obj\Debug\testWF_Clase08.Properties.Resources.resources
+C:\Users\alumno\Desktop\git\LaboratorioII\testWF_Clase08\obj\Debug\testWF_Clase08.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\testWF_Clase08\obj\Debug\testWF_Clase08.csproj.CoreCompileInputs.cache
