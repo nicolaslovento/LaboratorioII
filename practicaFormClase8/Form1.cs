@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,11 +14,11 @@ namespace practicaFormClase8
 {
     public partial class Form1 : Form
     {
-        private Paleta _miPaleta;
+        private PaletaC _miPaleta;
         public Form1()
         {
             InitializeComponent();
-            this._miPaleta = (Paleta)2;
+            this._miPaleta = (PaletaC)5;
             this.agregarTemperaToolStripMenuItem.Enabled = true;
             this.groupBox1.Enabled = false;
         }
