@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\bin\Debug\TestPPClase.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\bin\Debug\TestPPClase.exe
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\bin\Debug\TestPPClase.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\obj\Debug\TestPPClase.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\obj\Debug\TestPPClase.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\obj\Debug\TestPPClase.exe
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPClase\obj\Debug\TestPPClase.pdb

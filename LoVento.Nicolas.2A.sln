@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio19", "Ejercicio19\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesPPClase", "EntidadesPPClase\EntidadesPPClase.csproj", "{07C6D647-CBEB-4AA5-A766-A89A745AB363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPPClase", "TestPPClase\TestPPClase.csproj", "{0F7ADF24-4A4B-439D-91DB-30097FBB3233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{07C6D647-CBEB-4AA5-A766-A89A745AB363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C6D647-CBEB-4AA5-A766-A89A745AB363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C6D647-CBEB-4AA5-A766-A89A745AB363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

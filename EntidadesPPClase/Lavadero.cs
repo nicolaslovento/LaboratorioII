@@ -34,97 +34,76 @@ namespace EntidadesPPClase
       this._razonSocial = razon;
     }
 
-    public string LavaderoToString { get { return ToString(); } }
+    public string LavaderoToString {
+            get
+            {
+                string infoLav = string.Format("Razon Social: {0}\n Precios Vigentes:\nCamion: {1}\nAuto:{2}\nMoto:{3}", this._razonSocial, _precioCamion, _precioAuto, _precioMoto);
+                string infoVehiculos = "";
+                foreach (Vehiculo v in this._vehiculos)
+                {
+                    infoVehiculos += v.ToString();
+                }
 
-    private string ToString()
-    {
+                return infoLav + "\n" + infoVehiculos;
+            } }
 
-      string infoLav = string.Format("Razon Social: {0}\n Precios Vigentes:\nCamion: {1}\nAuto:{2}\nMoto:{3}", this._razonSocial, _precioCamion, _precioAuto, _precioMoto);
-      string infoVehiculos = "";
-      foreach (Vehiculo v in this._vehiculos)
-      {
-        infoVehiculos += v.ToString();
-      }
+    
+    public string VehiculosToString {
+            get
+            {
 
-      return infoLav + "\n" + infoVehiculos;
+                string infoVehiculos = "";
+                foreach (Vehiculo v in this._vehiculos)
+                {
+                    infoVehiculos += v.ToString();
+                }
 
-    }
-    public string VehiculosToString { get { return ToStringVehiculos(); } }
-
-    private string ToStringVehiculos()
-    {
-
-
-      string infoVehiculos = "";
-      foreach (Vehiculo v in this._vehiculos)
-      {
-        infoVehiculos += v.ToString();
-      }
-
-      return infoVehiculos;
-    }
-
-
-
+                return infoVehiculos;
+            } }
 
     public double MostrarTotalFacturado()
     {
-      double total = 0;
-      foreach (Vehiculo v in this._vehiculos)
-      {
-        if (v is Camion)
-        {
-          total += _precioCamion;
-        }
-        else
-        {
-          if (v is Auto)
-          {
-            total += _precioAuto;
-          }
-          else
-          {
-            total += _precioMoto;
-          }
-        }
-      }
-
-      return total;
+      return MostrarTotalFacturado(EVehiculos.Auto)+ MostrarTotalFacturado(EVehiculos.Camion) + MostrarTotalFacturado(EVehiculos.Moto) ;
     }
 
     public double MostrarTotalFacturado(EVehiculos vElegido)
     {
-      double total = 0;
+        int cant_Auto = 0, cant_Moto = 0, cant_Camion = 0; 
+        double total = 0;
 
-
-      if (vElegido.Equals("Camion"))
+      foreach(Vehiculo v in this._vehiculos)
       {
-        foreach (Vehiculo v in this._vehiculos)
-        {
-          if (v is Camion)
-          {
-            total += _precioCamion;
-          }
-        }
+                if(v is Auto)
+                {
+                    cant_Auto++;
+                }
+                if (v is Camion)
+                {
+                    cant_Camion++;
+                }
+                if (v is Moto)
+                {
+                    cant_Moto++;
+                }
       }
-      else
-      {
-        if (vElegido.Equals("Auto"))
-        {
-          foreach (Vehiculo v in this._vehiculos)
-          {
-            if (v is Auto)
+      
+            switch (vElegido)
             {
-              total += _precioAuto;
+                case EVehiculos.Auto:
+                    total = cant_Auto * Lavadero._precioAuto;
+                    break;
+                case EVehiculos.Camion:
+                    total = cant_Camion * Lavadero._precioCamion;
+                    break;
+                case EVehiculos.Moto:
+                    total = cant_Moto * Lavadero._precioMoto;
+                    break;
+                default:
+                    break;
             }
-          }
-        }
-        else
-        {
-          total += _precioMoto;
-        }
-      }
-      return total;
+
+
+            return total;
     }
 
     public static bool operator ==(Lavadero lav, Vehiculo veh)
@@ -148,14 +127,13 @@ namespace EntidadesPPClase
 
     public static int operator ==(Vehiculo veh, Lavadero lav)
     {
-      foreach (Vehiculo v in lav._vehiculos)
-      {
-        if (v == veh)
-        {
-          return lav._vehiculos.IndexOf(v);
-        }
-
-      }
+      for(int i=0; i < lav._vehiculos.Count; i++)
+            {
+                if (veh == lav._vehiculos[i])
+                {
+                    return i;
+                }
+            }
 
       return -1;
     }
@@ -177,13 +155,17 @@ namespace EntidadesPPClase
 
     public static Lavadero operator -(Lavadero lav, Vehiculo veh)
     {
-      if (lav == veh)
-      {
-        lav._vehiculos.Remove(veh);
-      }
+            for (int i = 0; i < lav._vehiculos.Count; i++)
+            {
+                if (veh == lav._vehiculos[i])
+                {
+                    lav._vehiculos.RemoveAt(i);
+                    break;
+                }
+            }
 
-      return lav;
-    }
+            return lav;
+     }
 
     public static int OrdenarVehiculosPorPatente(Vehiculo v1, Vehiculo v2)
     {
