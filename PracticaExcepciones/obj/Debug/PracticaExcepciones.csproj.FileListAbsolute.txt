@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\bin\Debug\PracticaExcepciones.exe.config
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\bin\Debug\PracticaExcepciones.exe
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\bin\Debug\PracticaExcepciones.pdb
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\obj\Debug\PracticaExcepciones.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\obj\Debug\PracticaExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\obj\Debug\PracticaExcepciones.exe
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaExcepciones\obj\Debug\PracticaExcepciones.pdb

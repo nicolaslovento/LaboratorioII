@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesPPClase", "Entidad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPPClase", "TestPPClase\TestPPClase.csproj", "{0F7ADF24-4A4B-439D-91DB-30097FBB3233}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaExcepciones", "PracticaExcepciones\PracticaExcepciones.csproj", "{9FC87EDB-5F1D-42B2-A3C4-5351F54D6109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTerminado", "PPTerminado\ConsoleApp1\PPTerminado.csproj", "{4E3D8623-E487-41B0-A4A8-9138777280A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F7ADF24-4A4B-439D-91DB-30097FBB3233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC87EDB-5F1D-42B2-A3C4-5351F54D6109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC87EDB-5F1D-42B2-A3C4-5351F54D6109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC87EDB-5F1D-42B2-A3C4-5351F54D6109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC87EDB-5F1D-42B2-A3C4-5351F54D6109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
