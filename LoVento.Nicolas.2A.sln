@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaExcepciones", "Prac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTerminado", "PPTerminado\ConsoleApp1\PPTerminado.csproj", "{4E3D8623-E487-41B0-A4A8-9138777280A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio42", "Ejercicio42\Ejercicio42.csproj", "{3BFCC65A-601F-4760-8036-D15B93581D8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E3D8623-E487-41B0-A4A8-9138777280A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFCC65A-601F-4760-8036-D15B93581D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFCC65A-601F-4760-8036-D15B93581D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFCC65A-601F-4760-8036-D15B93581D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFCC65A-601F-4760-8036-D15B93581D8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
