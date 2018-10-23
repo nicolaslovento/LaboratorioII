@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesCocinas\bin\Debug\EntidadesCocinas.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesCocinas\bin\Debug\EntidadesCocinas.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesCocinas\obj\Debug\EntidadesCocinas.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesCocinas\obj\Debug\EntidadesCocinas.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesCocinas\obj\Debug\EntidadesCocinas.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesCocinas\obj\Debug\EntidadesCocinas.pdb
