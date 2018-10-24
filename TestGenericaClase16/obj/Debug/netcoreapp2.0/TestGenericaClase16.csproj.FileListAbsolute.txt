@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\TestGenericaClase16.deps.json
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\TestGenericaClase16.runtimeconfig.json
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\TestGenericaClase16.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\TestGenericaClase16.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\TestGenericaClase16.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\EntidadesCocinas.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\EntidadesEj16.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\EntidadesCocinas.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\bin\Debug\netcoreapp2.0\EntidadesEj16.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.AssemblyInfo.cs
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.csproj.CopyComplete
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestGenericaClase16\obj\Debug\netcoreapp2.0\TestGenericaClase16.pdb

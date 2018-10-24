@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesEj16\bin\Debug\EntidadesEj16.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesEj16\bin\Debug\EntidadesEj16.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesEj16\obj\Debug\EntidadesEj16.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesEj16\obj\Debug\EntidadesEj16.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\EntidadesEj16\obj\Debug\EntidadesEj16.pdb

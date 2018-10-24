@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "TestGenericaClase16/1.0.0": {
+        "dependencies": {
+          "EntidadesCocinas": "1.0.0",
+          "EntidadesEj16": "1.0.0"
+        },
+        "runtime": {
+          "TestGenericaClase16.dll": {}
+        }
+      },
+      "EntidadesCocinas/1.0.0": {
+        "runtime": {
+          "EntidadesCocinas.dll": {}
+        }
+      },
+      "EntidadesEj16/1.0.0": {
+        "runtime": {
+          "EntidadesEj16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestGenericaClase16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesCocinas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesEj16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
