@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\bin\Debug\TestEjercicioInterfaces.exe.config
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\bin\Debug\TestEjercicioInterfaces.exe
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\bin\Debug\TestEjercicioInterfaces.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\bin\Debug\EjercicioInterfaces.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\bin\Debug\EjercicioInterfaces.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\obj\Debug\TestEjercicioInterfaces.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\obj\Debug\TestEjercicioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\obj\Debug\TestEjercicioInterfaces.csproj.CopyComplete
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\obj\Debug\TestEjercicioInterfaces.exe
+C:\Users\alumno\Desktop\git\LaboratorioII\TestEjercicioInterfaces\obj\Debug\TestEjercicioInterfaces.pdb
