@@ -1,0 +1,6 @@
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesCarreraAnimales\bin\Debug\EntidadesCarreraAnimales.dll
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesCarreraAnimales\bin\Debug\EntidadesCarreraAnimales.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesCarreraAnimales\obj\Debug\EntidadesCarreraAnimales.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesCarreraAnimales\obj\Debug\EntidadesCarreraAnimales.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesCarreraAnimales\obj\Debug\EntidadesCarreraAnimales.dll
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesCarreraAnimales\obj\Debug\EntidadesCarreraAnimales.pdb

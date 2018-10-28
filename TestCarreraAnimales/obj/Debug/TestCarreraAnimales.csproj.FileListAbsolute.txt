@@ -1,0 +1,10 @@
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\bin\Debug\TestCarreraAnimales.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\bin\Debug\TestCarreraAnimales.exe
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\bin\Debug\TestCarreraAnimales.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\bin\Debug\EntidadesCarreraAnimales.dll
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\bin\Debug\EntidadesCarreraAnimales.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\obj\Debug\TestCarreraAnimales.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\obj\Debug\TestCarreraAnimales.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\obj\Debug\TestCarreraAnimales.csproj.CopyComplete
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\obj\Debug\TestCarreraAnimales.exe
+C:\Users\nico\Desktop\git\LaboratorioII\TestCarreraAnimales\obj\Debug\TestCarreraAnimales.pdb

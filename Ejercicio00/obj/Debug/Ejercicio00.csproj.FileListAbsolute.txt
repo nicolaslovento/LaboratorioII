@@ -11,3 +11,10 @@ C:\Users\nico\Desktop\GIT\LabII\Ejercicio00\obj\Debug\Ejercicio00.pdb
 C:\Users\nico\Desktop\GIT\LabII\Ejercicio00\bin\Debug\Ejercicio00.exe
 C:\Users\nico\Desktop\GIT\LabII\Ejercicio00\bin\Debug\Ejercicio00.pdb
 C:\Users\nico\Desktop\GIT\LabII\Ejercicio00\obj\Debug\Ejercicio00.csprojResolveAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\bin\Debug\Ejercicio00.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\bin\Debug\Ejercicio00.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\obj\Debug\Ejercicio00.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\obj\Debug\Ejercicio00.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio00\obj\Debug\Ejercicio00.pdb
