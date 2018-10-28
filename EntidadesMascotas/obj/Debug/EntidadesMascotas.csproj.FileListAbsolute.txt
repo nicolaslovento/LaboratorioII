@@ -1,0 +1,6 @@
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesMascotas\bin\Debug\EntidadesMascotas.dll
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesMascotas\bin\Debug\EntidadesMascotas.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesMascotas\obj\Debug\EntidadesMascotas.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesMascotas\obj\Debug\EntidadesMascotas.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesMascotas\obj\Debug\EntidadesMascotas.dll
+C:\Users\nico\Desktop\git\LaboratorioII\EntidadesMascotas\obj\Debug\EntidadesMascotas.pdb

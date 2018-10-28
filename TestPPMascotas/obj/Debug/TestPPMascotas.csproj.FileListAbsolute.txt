@@ -1,0 +1,10 @@
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\bin\Debug\TestPPMascotas.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\bin\Debug\TestPPMascotas.exe
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\bin\Debug\TestPPMascotas.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\bin\Debug\EntidadesMascotas.dll
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\bin\Debug\EntidadesMascotas.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\obj\Debug\TestPPMascotas.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\obj\Debug\TestPPMascotas.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\obj\Debug\TestPPMascotas.csproj.CopyComplete
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\obj\Debug\TestPPMascotas.exe
+C:\Users\nico\Desktop\git\LaboratorioII\TestPPMascotas\obj\Debug\TestPPMascotas.pdb
