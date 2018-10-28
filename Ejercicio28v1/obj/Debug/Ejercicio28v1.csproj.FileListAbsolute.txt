@@ -1,0 +1,10 @@
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\bin\Debug\Ejercicio28v1.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\bin\Debug\Ejercicio28v1.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\bin\Debug\Ejercicio28v1.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.Form1.resources
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.Properties.Resources.resources
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio28v1\obj\Debug\Ejercicio28v1.pdb

@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\bin\Debug\PracticaString.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\bin\Debug\PracticaString.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\bin\Debug\PracticaString.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\obj\Debug\PracticaString.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\obj\Debug\PracticaString.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\obj\Debug\PracticaString.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaString\obj\Debug\PracticaString.csprojAssemblyReference.cache

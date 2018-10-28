@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\bin\Debug\Ejercicio26.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\bin\Debug\Ejercicio26.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\bin\Debug\Ejercicio26.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\obj\Debug\Ejercicio26.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\obj\Debug\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\obj\Debug\Ejercicio26.exe
+C:\Users\nico\Desktop\git\LaboratorioII\Ejercicio26\obj\Debug\Ejercicio26.pdb
