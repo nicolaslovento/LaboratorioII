@@ -1,0 +1,6 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProd\bin\Debug\PracticaProd.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProd\bin\Debug\PracticaProd.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProd\bin\Debug\PracticaProd.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProd\obj\Debug\PracticaProd.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProd\obj\Debug\PracticaProd.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProd\obj\Debug\PracticaProd.pdb

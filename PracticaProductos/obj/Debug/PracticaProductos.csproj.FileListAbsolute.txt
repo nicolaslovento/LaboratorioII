@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\bin\Debug\PracticaProductos.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\bin\Debug\PracticaProductos.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\bin\Debug\PracticaProductos.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\obj\Debug\PracticaProductos.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\obj\Debug\PracticaProductos.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\obj\Debug\PracticaProductos.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaProductos\obj\Debug\PracticaProductos.pdb
