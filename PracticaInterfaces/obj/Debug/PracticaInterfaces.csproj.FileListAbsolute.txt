@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\obj\Debug\PracticaInterfaces.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\obj\Debug\PracticaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\bin\Debug\PracticaInterfaces.exe.config
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\bin\Debug\PracticaInterfaces.exe
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\bin\Debug\PracticaInterfaces.pdb
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\obj\Debug\PracticaInterfaces.exe
+C:\Users\nico\Desktop\Git\LaboratorioII\PracticaInterfaces\obj\Debug\PracticaInterfaces.pdb
