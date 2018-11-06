@@ -103,7 +103,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.rpp", "E:\Entidad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProd", "PracticaProd\PracticaProd.csproj", "{26E0A925-F00B-4A92-A85C-A6ABEF879DDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "D:\VisualStudio\ConsoleApp1\ConsoleApp1\ConsoleApp1.csproj", "{163671CD-A480-4CAD-B0B7-F9C34821F38C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaSql", "ConsoleApp1\PruebaSql.csproj", "{163671CD-A480-4CAD-B0B7-F9C34821F38C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
