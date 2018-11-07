@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -41,8 +41,14 @@ namespace ConsoleApp1
                 Console.WriteLine(lector[0]+" "+lector[1]+" "+lector["precio"]+" "+lector[3]+" "+lector["pais"]);
             }
 
-            Televisor newT = new Televisor(144, "asd", 213223, 23, "Argentina");
-            newT.Insertar();
+            Televisor newT2 = new Televisor(123, "asdasd", 23, 53, "Brasil");
+            Televisor.Modificar(newT2);
+            if (Televisor.Delete(newT2))
+            {
+             Console.WriteLine("Se borro el producto");
+             }
+            //Televisor newT = new Televisor(144, "asd", 213223, 23, "Argentina");
+            //newT.Insertar();
             conexion.Close();//Desconecta.
 
 

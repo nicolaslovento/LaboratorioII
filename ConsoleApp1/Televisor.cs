@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -52,6 +52,55 @@ namespace ConsoleApp1
 
         }
 
+        public static bool Modificar(Televisor tele)
+        {
+
+          SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+
+          SqlCommand comando = new SqlCommand();
+
+          comando.CommandText = string.Format("UPDATE Televisores SET marca='"+tele.marca+"',precio="+ tele.precio+",pulgadas="+ tele.pulgadas+",pais='"+tele.pais+"' WHERE codigo="+tele.id);//omito los campos (entre televisores y values)
+          comando.CommandType = System.Data.CommandType.Text;
+          comando.Connection = conexion;
+
+          conexion.Open();
+          comando.ExecuteNonQuery();
+          conexion.Close();
+
+          return false;
+
+        }
+
+    public static bool Delete(Televisor tele)
+    {
+
+      SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+
+      SqlCommand comando = new SqlCommand();
+      try
+      {
+        comando.CommandText = string.Format("DELETE Televisores WHERE codigo=" + tele.id);//omito los campos (entre televisores y values)
+        comando.CommandType = System.Data.CommandType.Text;
+        comando.Connection = conexion;
+
+        conexion.Open();
+        comando.ExecuteNonQuery();
+        conexion.Close();
+      }
+      catch (Exception)
+      {
+        return false;
+      }
+
+
+      return true;
 
     }
+
+
+
+
+
+
+  }
 }
