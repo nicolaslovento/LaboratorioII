@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProd", "PracticaPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaSql", "ConsoleApp1\PruebaSql.csproj", "{163671CD-A480-4CAD-B0B7-F9C34821F38C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesTelevisores", "EntidadesTelevisores\EntidadesTelevisores.csproj", "{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,14 @@ Global
 		{163671CD-A480-4CAD-B0B7-F9C34821F38C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{163671CD-A480-4CAD-B0B7-F9C34821F38C}.Release|x86.ActiveCfg = Release|Any CPU
 		{163671CD-A480-4CAD-B0B7-F9C34821F38C}.Release|x86.Build.0 = Release|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Debug|x86.Build.0 = Debug|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{12B2F318-2EE8-44A0-B9A0-A51F6206D6BE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

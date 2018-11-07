@@ -8,6 +8,7 @@ using System.Data;
 using System.Xml;
 using System.Xml.Serialization;
 
+
 namespace ConsoleApp1
 {
     public class Televisor
@@ -51,6 +52,8 @@ namespace ConsoleApp1
             return false;
 
         }
+
+        
 
         public static bool Modificar(Televisor tele)
         {
@@ -97,7 +100,31 @@ namespace ConsoleApp1
 
     }
 
+    public static Televisor TraerUno(int idTele)
+    {
 
+      SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+
+      SqlCommand comando = new SqlCommand();
+      try
+      {
+        comando.CommandText = string.Format("SELECT Televisores WHERE codigo=" + idTele);//omito los campos (entre televisores y values)
+        comando.CommandType = System.Data.CommandType.Text;
+        comando.Connection = conexion;
+
+        conexion.Open();
+        comando.ExecuteNonQuery();
+        conexion.Close();
+      }
+      catch (Exception)
+      {
+        return false;
+      }
+
+
+      return true;
+
+    }
 
 
 
