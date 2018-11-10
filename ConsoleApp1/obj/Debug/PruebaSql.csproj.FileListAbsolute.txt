@@ -5,3 +5,7 @@ C:\Users\alumno\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\PruebaSql.csproj
 C:\Users\alumno\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\alumno\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\alumno\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\PruebaSql.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\PruebaSql.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\PruebaSql.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\nico\Desktop\git\LaboratorioII\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

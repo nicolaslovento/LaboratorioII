@@ -106,8 +106,7 @@ namespace ConsoleApp1
       SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
 
       SqlCommand comando = new SqlCommand();
-      try
-      {
+      
         comando.CommandText = string.Format("SELECT Televisores WHERE codigo=" + idTele);//omito los campos (entre televisores y values)
         comando.CommandType = System.Data.CommandType.Text;
         comando.Connection = conexion;
@@ -115,11 +114,8 @@ namespace ConsoleApp1
         conexion.Open();
         comando.ExecuteNonQuery();
         conexion.Close();
-      }
-      catch (Exception)
-      {
-        return false;
-      }
+      
+     
 
 
       return true;

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using EntidadesCarreraAnimales;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace TestCarreraAnimales
 {
@@ -28,7 +30,17 @@ namespace TestCarreraAnimales
             Perro a7 = new Perro(Perro.Razas.OvejeroAleman, 50);
             carrera += a7;
 
+            
+                XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Animal>));
+                XmlTextWriter xmlWriter = new XmlTextWriter("Animales.xml", Encoding.UTF8);
+                XmlTextReader xmlReader = new XmlTextReader("Animales.xml");
 
+                xmlSerializer.Serialize(xmlWriter,carrera._animales);
+
+                xmlWriter.Close();
+                
+
+            
             Console.WriteLine(carrera.MostrarCarrera(carrera));
 
             Console.ReadKey();

@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\obj\Debug\practicaXml.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\bin\Debug\practicaXml.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\bin\Debug\practicaXml.exe
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\bin\Debug\practicaXml.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\obj\Debug\practicaXml.exe
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\obj\Debug\practicaXml.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\practicaXml\obj\Debug\practicaXml.csprojAssemblyReference.cache

@@ -8,17 +8,23 @@ namespace EntidadesCarreraAnimales
 {
     public class Carrera
     {
-        protected List<Animal> _animales;
+        public List<Animal> _animales;
         protected int _corredoresMax;
 
-        private Carrera()
+        
+
+        private Carrera(int num,int n)
         {
             this._animales = new List<Animal>();
         }
 
-        public Carrera(int corredores):this()
+        public Carrera(int corredores):this(3,2)
         {
             this._corredoresMax = corredores;
+        }
+        public Carrera()
+        {
+
         }
 
         public static Carrera operator +(Carrera c,Animal a)

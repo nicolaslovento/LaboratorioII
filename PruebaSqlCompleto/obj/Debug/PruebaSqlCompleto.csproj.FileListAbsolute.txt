@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\bin\Debug\PruebaSqlCompleto.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\bin\Debug\PruebaSqlCompleto.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\bin\Debug\PruebaSqlCompleto.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\obj\Debug\PruebaSqlCompleto.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\obj\Debug\PruebaSqlCompleto.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\obj\Debug\PruebaSqlCompleto.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PruebaSqlCompleto\obj\Debug\PruebaSqlCompleto.pdb
