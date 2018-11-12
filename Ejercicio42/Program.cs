@@ -10,7 +10,17 @@ namespace Ejercicio42
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Clase4 c = new Clase4();
+                c.MetodoInstancia();
+            }
+            catch (MiException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
+            Console.ReadLine();
             
         }
 

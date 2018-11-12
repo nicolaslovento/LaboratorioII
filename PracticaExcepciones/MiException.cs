@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace PracticaExcepciones
 {
-    class MiException:Exception
+    public class MiException:Exception
     {
-        public MiException():base("Error")
+        public MiException(string m):base(m)
         {
 
         }

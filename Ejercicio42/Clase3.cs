@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Ejercicio42
 {
-    class Clase3
+    public class Clase3
     {
+        public Clase3()
+        {
+            try
+            {
+                new Clase2();//lanza exeception DividePorZero
+            }
+            catch (DivideByZeroException e)
+            {
+                throw new UnaExcepcion("Capturo: "+e.Message+"y lanzo Exception UnaExcepcion..\n",e);
+            }
+        }
+
     }
 }

@@ -8,15 +8,15 @@ namespace Ejercicio42
 {
     class Clase2
     {
-        public void MetodoDeInstancia()
+        public Clase2()
         {
             try
             {
-                new Clase1();
+                Clase1.MetodoEstatico();//lanza exeception DividePorZero
             }
-            catch (Exception e)
+            catch(DivideByZeroException)
             {
-                throw new UnaExcepcion(e.Message + "Error Metodo clase 2", e);
+                throw new DivideByZeroException(); 
             }
         }
 

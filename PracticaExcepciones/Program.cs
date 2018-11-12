@@ -12,35 +12,39 @@ namespace PracticaExcepciones
         {
             try
             {
-                Console.Write("Ingrese un numero: ");
-                int num1 = int.Parse(Console.ReadLine());
-                Calcular(num1);
-            }
-            catch (OverflowException r)
-            {
-                Console.WriteLine(r.Message);
-            }
-            catch (DivideByZeroException r)
-            {
-                Console.WriteLine(r.Message);
-            }
-            catch (MiException r)
-            {
-                Console.WriteLine(r.Message);
-            }
+                try
+                {
+                    try
+                    {
+                        Calcular();
+                    }
+                    catch (MiException e)
+                    {
+                        throw new Exception(e.Message + " Lanzo excepcion..", e);
 
-            Console.WriteLine("asd");
-            Console.Read();
+                    }
+                }
+                catch (Exception e)
+                {
+                    throw new DivideByZeroException(e.Message + " Lanzo divideByZero..", e);
+                }
+            }
+            catch (DivideByZeroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            
 
+
+            Console.ReadKey();
 
         }
 
-        static void Calcular(int num)
+        static void Calcular()
         {
-            if (num < 5)
-            {
-                throw new MiException();
-            }
+            
+                throw new MiException("Error en metodoCalcular");
+            
         }
     }
 }

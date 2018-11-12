@@ -9,19 +9,9 @@ namespace Ejercicio42
     class Clase1
     {
 
-        public Clase1()
-        {
-            try
-            {
-                Dividir();
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-        }
+        
 
-        public static void Dividir()
+        public static void MetodoEstatico()
         {
             throw new DivideByZeroException();
         }
