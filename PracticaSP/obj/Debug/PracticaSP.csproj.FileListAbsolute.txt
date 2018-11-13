@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\bin\Debug\PracticaSP.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\bin\Debug\PracticaSP.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\bin\Debug\PracticaSP.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\obj\Debug\PracticaSP.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\obj\Debug\PracticaSP.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\obj\Debug\PracticaSP.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracticaSP\obj\Debug\PracticaSP.pdb
