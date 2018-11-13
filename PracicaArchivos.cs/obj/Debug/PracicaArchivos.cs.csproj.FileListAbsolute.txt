@@ -1,0 +1,7 @@
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\bin\Debug\PracicaArchivos.cs.exe.config
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\bin\Debug\PracicaArchivos.cs.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\bin\Debug\PracicaArchivos.cs.pdb
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.exe
+C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.pdb
