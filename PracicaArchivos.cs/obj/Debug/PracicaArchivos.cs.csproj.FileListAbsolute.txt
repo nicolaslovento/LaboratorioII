@@ -5,3 +5,10 @@ C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArch
 C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.csproj.CoreCompileInputs.cache
 C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.exe
 C:\Users\nico\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\bin\Debug\PracicaArchivos.cs.exe.config
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\bin\Debug\PracicaArchivos.cs.exe
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\bin\Debug\PracicaArchivos.cs.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.exe
+C:\Users\alumno\Desktop\git\LaboratorioII\PracicaArchivos.cs\obj\Debug\PracicaArchivos.cs.pdb
