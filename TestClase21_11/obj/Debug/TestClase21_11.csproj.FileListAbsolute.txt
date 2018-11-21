@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\TestClase21_11.exe.config
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\TestClase21_11.exe
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\TestClase21_11.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\EntidadesClase21_11.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\Entidades.Externa.dll
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\bin\Debug\EntidadesClase21_11.pdb
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\obj\Debug\TestClase21_11.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\obj\Debug\TestClase21_11.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\obj\Debug\TestClase21_11.csproj.CopyComplete
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\obj\Debug\TestClase21_11.exe
+C:\Users\alumno\Desktop\git\LaboratorioII\TestClase21_11\obj\Debug\TestClase21_11.pdb

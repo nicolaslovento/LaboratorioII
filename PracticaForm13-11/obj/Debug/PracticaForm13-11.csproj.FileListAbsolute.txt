@@ -9,3 +9,4 @@ C:\Users\alumno\Desktop\git\LaboratorioII\PracticaForm13-11\obj\Debug\PracticaFo
 C:\Users\alumno\Desktop\git\LaboratorioII\PracticaForm13-11\obj\Debug\PracticaForm13-11.exe
 C:\Users\alumno\Desktop\git\LaboratorioII\PracticaForm13-11\obj\Debug\PracticaForm13-11.pdb
 C:\Users\alumno\Desktop\git\LaboratorioII\PracticaForm13-11\obj\Debug\PracticaForm13_11.FormDatos.resources
+C:\Users\alumno\Desktop\git\LaboratorioII\PracticaForm13-11\obj\Debug\PracticaForm13-11.csprojAssemblyReference.cache
